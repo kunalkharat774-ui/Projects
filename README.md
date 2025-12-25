@@ -28,15 +28,6 @@
   <a style="margin-right: 10px;" href="https://github.com/thewhiteh4t/seeker#usage">
     <img src="https://dabuttonfactory.com/button.png?t=USAGE&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
   </a>
-    
-   #############################
-     #  How To Install Termux #
-   ##############################
-   # Step1 : Open the Google and search Bluestack then Download.
-   # Step2 :  Bluestack Download Successfully.
-   # Step3 :  Open Bluestack and go to Home and click on the Google icon.
-   # Step4 :  search Termux and Download.
-   # Step5 :  open Termux and Setup.
 
    
 
