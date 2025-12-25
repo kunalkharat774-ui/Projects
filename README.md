@@ -28,3 +28,34 @@
   <a style="margin-right: 10px;" href="https://github.com/thewhiteh4t/seeker#usage">
     <img src="https://dabuttonfactory.com/button.png?t=USAGE&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
   </a>
+    
+   #############################
+     #  How To Install Termux #
+   ##############################
+   # Step1 : Open the Google and search Bluestack then Download.
+   # Step2 :  Bluestack Download Successfully.
+   # Step3 :  Open Bluestack and go to Home and click on the Google icon.
+   # Step4 :  search Termux and Download.
+   # Step5 :  open Termux and Setup.
+
+   ############################
+     # Termux-Setup Command #
+   ############################
+
+   Step1 :  $ apt update && apt upgrade
+   Step2 :  $  termux-setup-storage
+   Step3 :  $  termux-change-repo
+
+   ################################
+    #  Termux Packages  Install #
+   ################################
+
+   Step1 :  $ pkg install git
+   Step2 :  $ pkg install python
+   Step3 :  $ pkg install python2 
+   Step4 :  $ pkg install nodejs
+   Step5 :  $ pkg install ruby
+   Step6 :  $ pkg install Wget
+   Step7 :  $ pkg install espeak
+   
+
