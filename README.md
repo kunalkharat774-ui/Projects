@@ -38,24 +38,5 @@
    # Step4 :  search Termux and Download.
    # Step5 :  open Termux and Setup.
 
-   ############################
-     # Termux-Setup Command #
-   ############################
-
-   Step1 :  $ apt update && apt upgrade
-   Step2 :  $  termux-setup-storage
-   Step3 :  $  termux-change-repo
-
-   ################################
-    #  Termux Packages  Install #
-   ################################
-
-   Step1 :  $ pkg install git
-   Step2 :  $ pkg install python
-   Step3 :  $ pkg install python2 
-   Step4 :  $ pkg install nodejs
-   Step5 :  $ pkg install ruby
-   Step6 :  $ pkg install Wget
-   Step7 :  $ pkg install espeak
    
 
